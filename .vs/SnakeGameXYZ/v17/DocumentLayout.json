@@ -3,32 +3,12 @@
   "WorkspaceRootPath": "C:\\Source\\XYZ\\SnakeGameXYZ\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1FA072D2-9E69-4A98-933B-B02926FF7C65}|SnakeGameXYZ\\SnakeGameXYZ.vcxproj|C:\\Source\\XYZ\\SnakeGameXYZ\\SnakeGameXYZ\\Snake.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{1FA072D2-9E69-4A98-933B-B02926FF7C65}|SnakeGameXYZ\\SnakeGameXYZ.vcxproj|solutionrelative:SnakeGameXYZ\\Snake.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1FA072D2-9E69-4A98-933B-B02926FF7C65}|SnakeGameXYZ\\SnakeGameXYZ.vcxproj|C:\\Source\\XYZ\\SnakeGameXYZ\\SnakeGameXYZ\\Apple.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{1FA072D2-9E69-4A98-933B-B02926FF7C65}|SnakeGameXYZ\\SnakeGameXYZ.vcxproj|solutionrelative:SnakeGameXYZ\\Apple.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1FA072D2-9E69-4A98-933B-B02926FF7C65}|SnakeGameXYZ\\SnakeGameXYZ.vcxproj|C:\\Source\\XYZ\\SnakeGameXYZ\\SnakeGameXYZ\\GameState.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{1FA072D2-9E69-4A98-933B-B02926FF7C65}|SnakeGameXYZ\\SnakeGameXYZ.vcxproj|solutionrelative:SnakeGameXYZ\\GameState.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1FA072D2-9E69-4A98-933B-B02926FF7C65}|SnakeGameXYZ\\SnakeGameXYZ.vcxproj|C:\\Source\\XYZ\\SnakeGameXYZ\\SnakeGameXYZ\\GameMain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{1FA072D2-9E69-4A98-933B-B02926FF7C65}|SnakeGameXYZ\\SnakeGameXYZ.vcxproj|solutionrelative:SnakeGameXYZ\\GameMain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1FA072D2-9E69-4A98-933B-B02926FF7C65}|SnakeGameXYZ\\SnakeGameXYZ.vcxproj|C:\\Source\\XYZ\\SnakeGameXYZ\\SnakeGameXYZ\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{1FA072D2-9E69-4A98-933B-B02926FF7C65}|SnakeGameXYZ\\SnakeGameXYZ.vcxproj|solutionrelative:SnakeGameXYZ\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1FA072D2-9E69-4A98-933B-B02926FF7C65}|SnakeGameXYZ\\SnakeGameXYZ.vcxproj|C:\\Source\\XYZ\\SnakeGameXYZ\\SnakeGameXYZ\\GameStatePlaying.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{1FA072D2-9E69-4A98-933B-B02926FF7C65}|SnakeGameXYZ\\SnakeGameXYZ.vcxproj|solutionrelative:SnakeGameXYZ\\GameStatePlaying.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1FA072D2-9E69-4A98-933B-B02926FF7C65}|SnakeGameXYZ\\SnakeGameXYZ.vcxproj|C:\\Source\\XYZ\\SnakeGameXYZ\\SnakeGameXYZ\\GameState.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{1FA072D2-9E69-4A98-933B-B02926FF7C65}|SnakeGameXYZ\\SnakeGameXYZ.vcxproj|solutionrelative:SnakeGameXYZ\\GameState.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{1FA072D2-9E69-4A98-933B-B02926FF7C65}|SnakeGameXYZ\\SnakeGameXYZ.vcxproj|C:\\Source\\XYZ\\SnakeGameXYZ\\SnakeGameXYZ\\Math.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1FA072D2-9E69-4A98-933B-B02926FF7C65}|SnakeGameXYZ\\SnakeGameXYZ.vcxproj|solutionrelative:SnakeGameXYZ\\Math.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -55,92 +35,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Apple.cpp",
-              "DocumentMoniker": "C:\\Source\\XYZ\\SnakeGameXYZ\\SnakeGameXYZ\\Apple.cpp",
-              "RelativeDocumentMoniker": "SnakeGameXYZ\\Apple.cpp",
-              "ToolTip": "C:\\Source\\XYZ\\SnakeGameXYZ\\SnakeGameXYZ\\Apple.cpp",
-              "RelativeToolTip": "SnakeGameXYZ\\Apple.cpp",
+              "Title": "Math.cpp",
+              "DocumentMoniker": "C:\\Source\\XYZ\\SnakeGameXYZ\\SnakeGameXYZ\\Math.cpp",
+              "RelativeDocumentMoniker": "SnakeGameXYZ\\Math.cpp",
+              "ToolTip": "C:\\Source\\XYZ\\SnakeGameXYZ\\SnakeGameXYZ\\Math.cpp",
+              "RelativeToolTip": "SnakeGameXYZ\\Math.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-05-21T17:37:49.538Z",
+              "WhenOpened": "2024-06-11T10:01:28.507Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Snake.cpp",
-              "DocumentMoniker": "C:\\Source\\XYZ\\SnakeGameXYZ\\SnakeGameXYZ\\Snake.cpp",
-              "RelativeDocumentMoniker": "SnakeGameXYZ\\Snake.cpp",
-              "ToolTip": "C:\\Source\\XYZ\\SnakeGameXYZ\\SnakeGameXYZ\\Snake.cpp",
-              "RelativeToolTip": "SnakeGameXYZ\\Snake.cpp",
-              "ViewState": "AQIAAEIAAAAAAAAAAAAAAF8AAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-05-21T17:36:07.304Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Game.cpp",
-              "DocumentMoniker": "C:\\Source\\XYZ\\SnakeGameXYZ\\SnakeGameXYZ\\Game.cpp",
-              "RelativeDocumentMoniker": "SnakeGameXYZ\\Game.cpp",
-              "ToolTip": "C:\\Source\\XYZ\\SnakeGameXYZ\\SnakeGameXYZ\\Game.cpp",
-              "RelativeToolTip": "SnakeGameXYZ\\Game.cpp",
-              "ViewState": "AQIAAEsAAAAAAAAAAAAAAAwAAAAwAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-05-21T17:33:02.653Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "GameStatePlaying.cpp",
-              "DocumentMoniker": "C:\\Source\\XYZ\\SnakeGameXYZ\\SnakeGameXYZ\\GameStatePlaying.cpp",
-              "RelativeDocumentMoniker": "SnakeGameXYZ\\GameStatePlaying.cpp",
-              "ToolTip": "C:\\Source\\XYZ\\SnakeGameXYZ\\SnakeGameXYZ\\GameStatePlaying.cpp",
-              "RelativeToolTip": "SnakeGameXYZ\\GameStatePlaying.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-05-21T17:32:28.378Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "GameMain.cpp",
               "DocumentMoniker": "C:\\Source\\XYZ\\SnakeGameXYZ\\SnakeGameXYZ\\GameMain.cpp",
               "RelativeDocumentMoniker": "SnakeGameXYZ\\GameMain.cpp",
               "ToolTip": "C:\\Source\\XYZ\\SnakeGameXYZ\\SnakeGameXYZ\\GameMain.cpp",
               "RelativeToolTip": "SnakeGameXYZ\\GameMain.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAAAkAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-05-21T17:31:57.021Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "GameState.cpp",
-              "DocumentMoniker": "C:\\Source\\XYZ\\SnakeGameXYZ\\SnakeGameXYZ\\GameState.cpp",
-              "RelativeDocumentMoniker": "SnakeGameXYZ\\GameState.cpp",
-              "ToolTip": "C:\\Source\\XYZ\\SnakeGameXYZ\\SnakeGameXYZ\\GameState.cpp",
-              "RelativeToolTip": "SnakeGameXYZ\\GameState.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAE8AAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-05-21T17:31:17.793Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "GameState.h",
-              "DocumentMoniker": "C:\\Source\\XYZ\\SnakeGameXYZ\\SnakeGameXYZ\\GameState.h",
-              "RelativeDocumentMoniker": "SnakeGameXYZ\\GameState.h",
-              "ToolTip": "C:\\Source\\XYZ\\SnakeGameXYZ\\SnakeGameXYZ\\GameState.h",
-              "RelativeToolTip": "SnakeGameXYZ\\GameState.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-05-21T16:23:49.742Z",
+              "WhenOpened": "2024-05-24T14:22:22.467Z",
               "EditorCaption": ""
             }
           ]
